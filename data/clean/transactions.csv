@@ -1,0 +1,456 @@
+transaction_id,date,account,description_raw,amount,txn_type,merchant,category,month,day_of_week,is_expense,is_income
+TXN1024,2026-02-01,Checking ...4821,SQ*STARBUCKS COFFEE,-6.8,Purchase,Starbucks,Food and Restaurants,2026-02,Sunday,True,False
+TXN1020,2026-02-01,Checking ...4821,SHELL OIL 369,-46.97,Purchase,Shell Gas Station,Transportation,2026-02,Sunday,True,False
+TXN1015,2026-02-02,Checking ...4821,VZWRLSS*784,-85.0,Payment,Verizon Wireless,Bills,2026-02,Monday,True,False
+TXN1005,2026-02-02,Checking ...4821,SPOTIFY USA,-11.99,Payment,Spotify,Subscriptions,2026-02,Monday,True,False
+TXN1012,2026-02-02,Credit Card ...9033,PACIFIC PWR ELEC BILL,-144.81,Payment,Pacific Power Electric,Bills,2026-02,Monday,True,False
+TXN1023,2026-02-02,Checking ...4821,SHELL OIL 551,-36.67,Purchase,Shell Gas Station,Transportation,2026-02,Monday,True,False
+TXN1054,2026-02-03,Credit Card ...9033,TRADER JOE S #749,-53.51,Purchase,Trader Joe's,Food and Restaurants,2026-02,Tuesday,True,False
+TXN1051,2026-02-03,Checking ...4821,DOORDASH*997,-20.72,Purchase,DoorDash,Food and Restaurants,2026-02,Tuesday,True,False
+TXN1016,2026-02-03,Credit Card ...9033,STATEFARM 272,-120.0,Payment,State Farm Insurance,Bills,2026-02,Tuesday,True,False
+TXN1452,2026-02-03,Credit Card ...9033,DELTA.COM 447,-612.0,Purchase,Delta Airlines,Travel,2026-02,Tuesday,True,False
+TXN1006,2026-02-03,Checking ...4821,PRIME VIDEO CHANNELS,-14.99,Payment,Amazon Prime,Subscriptions,2026-02,Tuesday,True,False
+TXN1055,2026-02-03,Credit Card ...9033,WAL-MART #564,-42.77,Purchase,Walmart,Shopping,2026-02,Tuesday,True,False
+TXN1048,2026-02-04,Checking ...4821,TRADER JOES 266,-63.86,Purchase,Trader Joe's,Food and Restaurants,2026-02,Wednesday,True,False
+TXN1042,2026-02-04,Checking ...4821,SHELL SERVICE STATION,-49.48,Purchase,Shell Gas Station,Transportation,2026-02,Wednesday,True,False
+TXN1009,2026-02-04,Credit Card ...9033,APPLE.COM/BILL,-2.99,Payment,iCloud Storage,Subscriptions,2026-02,Wednesday,True,False
+TXN1002,2026-02-05,Checking ...4821,RENTERS INS PREMIUM,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-02,Thursday,True,False
+TXN1036,2026-02-05,Credit Card ...9033,MCDONALDS #925,-6.31,Purchase,McDonald's,Food and Restaurants,2026-02,Thursday,True,False
+TXN1028,2026-02-05,Checking ...4821,CHICK-FIL-A #876,-12.94,Purchase,Chick-fil-A,Food and Restaurants,2026-02,Thursday,True,False
+TXN1057,2026-02-06,Checking ...4821,WHOLE FOODS MARKET,-58.18,Purchase,Whole Foods Market,Food and Restaurants,2026-02,Friday,True,False
+TXN1058,2026-02-06,Checking ...4821,CHICK-FIL-A #356,-9.48,Purchase,Chick-fil-A,Food and Restaurants,2026-02,Friday,True,False
+TXN1071,2026-02-06,Checking ...4821,ACME CORP DIRECT DEP,2058.19,Deposit,Acme Corp Payroll,Income,2026-02,Friday,False,True
+TXN1043,2026-02-07,Checking ...4821,SQ *STARBUCKS #619 SEATTLE WA,-5.5,Purchase,Starbucks,Food and Restaurants,2026-02,Saturday,True,False
+TXN1059,2026-02-07,Credit Card ...9033,CHICK-FIL-A #557,-11.49,Purchase,Chick-fil-A,Food and Restaurants,2026-02,Saturday,True,False
+TXN1014,2026-02-07,Credit Card ...9033,COMCAST CABLE COMM,-79.99,Payment,Comcast Xfinity,Bills,2026-02,Saturday,True,False
+TXN1064,2026-02-09,Credit Card ...9033,TRADER JOES 472,-67.67,Purchase,Trader Joe's,Food and Restaurants,2026-02,Monday,True,False
+TXN1056,2026-02-09,Checking ...4821,THE LOCAL DINER,-22.38,Purchase,Local Diner,Food and Restaurants,2026-02,Monday,True,False
+TXN1065,2026-02-10,Credit Card ...9033,OLD NAVY #101,-35.69,Purchase,Old Navy,Shopping,2026-02,Tuesday,True,False
+TXN1001,2026-02-11,Checking ...4821,SKYLINE APARTMENTS RENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-02,Wednesday,True,False
+TXN1033,2026-02-11,Checking ...4821,THE LOCAL DINER,-15.08,Purchase,Local Diner,Food and Restaurants,2026-02,Wednesday,True,False
+TXN1039,2026-02-11,Checking ...4821,PARKWHIZ 954,-9.52,Purchase,ParkWhiz,Transportation,2026-02,Wednesday,True,False
+TXN1029,2026-02-12,Credit Card ...9033,WHOLE FOODS MARKET,-128.83,Purchase,Whole Foods Market,Food and Restaurants,2026-02,Thursday,True,False
+TXN1032,2026-02-12,Checking ...4821,CHEVRON/TEXACO 473,-42.31,Purchase,Chevron,Transportation,2026-02,Thursday,True,False
+TXN1010,2026-02-12,Checking ...4821,DISNEYPLUS.COM,-13.99,Payment,Disney Plus,Subscriptions,2026-02,Thursday,True,False
+TXN1003,2026-02-13,Checking ...4821,CITY TRANSIT AUTHORITY,-60.0,Payment,City Transit Authority,Transportation,2026-02,Friday,True,False
+TXN1060,2026-02-13,Checking ...4821,UBER *TRIP HELP.UBER.COM,-31.29,Purchase,Uber,Transportation,2026-02,Friday,True,False
+TXN1049,2026-02-13,Checking ...4821,COURSERA 465,-49.0,Purchase,Coursera,Education,2026-02,Friday,True,False
+TXN1034,2026-02-13,Credit Card ...9033,MCDONALD'S F589,-12.2,Purchase,McDonald's,Food and Restaurants,2026-02,Friday,True,False
+TXN1025,2026-02-13,Credit Card ...9033,TRADER JOES 455,-43.88,Purchase,Trader Joe's,Food and Restaurants,2026-02,Friday,True,False
+TXN1067,2026-02-13,Checking ...4821,LYFT   RIDE TUE,-9.54,Purchase,Lyft,Transportation,2026-02,Friday,True,False
+TXN1017,2026-02-14,Credit Card ...9033,FEDLOAN SERVICING,-210.0,Payment,Federal Student Loan Servicer,Education,2026-02,Saturday,True,False
+TXN1040,2026-02-15,Checking ...4821,UBER EATS 946,-31.89,Purchase,Uber Eats,Food and Restaurants,2026-02,Sunday,True,False
+TXN1041,2026-02-15,Checking ...4821,SQ*STARBUCKS COFFEE,-7.74,Purchase,Starbucks,Food and Restaurants,2026-02,Sunday,True,False
+TXN1044,2026-02-15,Credit Card ...9033,NIKE.COM 809,-77.45,Purchase,Nike,Shopping,2026-02,Sunday,True,False
+TXN1026,2026-02-15,Checking ...4821,TARGET.COM *187,-80.05,Purchase,Target,Shopping,2026-02,Sunday,True,False
+TXN1018,2026-02-15,Credit Card ...9033,CHIPOTLE MEXICAN GRILL,-12.21,Purchase,Chipotle,Food and Restaurants,2026-02,Sunday,True,False
+TXN1046,2026-02-15,Checking ...4821,MCDONALD'S F538,-8.56,Purchase,McDonald's,Food and Restaurants,2026-02,Sunday,True,False
+TXN1072,2026-02-16,Checking ...4821,ACME CORP DIRECT DEP,2016.93,Deposit,Acme Corp Payroll,Income,2026-02,Monday,False,True
+TXN1027,2026-02-16,Checking ...4821,AUTOZONE #628,-78.82,Purchase,AutoZone,Transportation,2026-02,Monday,True,False
+TXN1053,2026-02-17,Checking ...4821,UBER *TRIP HELP.UBER.COM,-21.78,Purchase,Uber,Transportation,2026-02,Tuesday,True,False
+TXN1073,2026-02-17,Checking ...4821,VENMO   TRANSFER IN,99.12,Transfer,Venmo Transfer,Transfer,2026-02,Tuesday,False,False
+TXN1013,2026-02-17,Credit Card ...9033,METRO WATER 170,-45.82,Payment,Metro Water Utility,Bills,2026-02,Tuesday,True,False
+TXN1031,2026-02-17,Credit Card ...9033,TRADER JOE S #128,-71.42,Purchase,Trader Joe's,Food and Restaurants,2026-02,Tuesday,True,False
+TXN1045,2026-02-17,Credit Card ...9033,AMZN MKTP US*672,-174.88,Purchase,Amazon,Shopping,2026-02,Tuesday,True,False
+TXN1008,2026-02-18,Checking ...4821,ANYTIMEFIT MEMBERSHIP,-39.99,Payment,Anytime Fitness,Subscriptions,2026-02,Wednesday,True,False
+TXN1037,2026-02-18,Checking ...4821,DOORDASH*114,-33.13,Purchase,DoorDash,Food and Restaurants,2026-02,Wednesday,True,False
+TXN1050,2026-02-18,Credit Card ...9033,SQ*STARBUCKS COFFEE,-6.31,Purchase,Starbucks,Food and Restaurants,2026-02,Wednesday,True,False
+TXN1011,2026-02-19,Checking ...4821,YOUTUBEPREMIUM,-13.99,Payment,YouTube Premium,Subscriptions,2026-02,Thursday,True,False
+TXN1021,2026-02-20,Credit Card ...9033,UBER   TRIP 807,-21.68,Purchase,Uber,Transportation,2026-02,Friday,True,False
+TXN1066,2026-02-21,Checking ...4821,WHOLEFDS MKT #193,-58.1,Purchase,Whole Foods Market,Food and Restaurants,2026-02,Saturday,True,False
+TXN1062,2026-02-21,Checking ...4821,STARBUCKS #541,-7.58,Purchase,Starbucks,Food and Restaurants,2026-02,Saturday,True,False
+TXN1069,2026-02-21,Checking ...4821,AUTOZONE INC,-26.15,Purchase,AutoZone,Transportation,2026-02,Saturday,True,False
+TXN1004,2026-02-21,Credit Card ...9033,NETFLIX.COM,-15.49,Payment,Netflix,Subscriptions,2026-02,Saturday,True,False
+TXN1019,2026-02-22,Checking ...4821,ENTERPRISE RENT-A-CAR,-200.89,Purchase,Enterprise Rent-A-Car,Travel,2026-02,Sunday,True,False
+TXN1070,2026-02-23,Checking ...4821,LYFT *RIDE 187,-22.35,Purchase,Lyft,Transportation,2026-02,Monday,True,False
+TXN1061,2026-02-23,Checking ...4821,TARGET      #514,-111.11,Purchase,Target,Shopping,2026-02,Monday,True,False
+TXN1047,2026-02-25,Checking ...4821,PARKWHIZ 246,-7.89,Purchase,ParkWhiz,Transportation,2026-02,Wednesday,True,False
+TXN1052,2026-02-25,Credit Card ...9033,SQ *STARBUCKS #939 SEATTLE WA,-5.07,Purchase,Starbucks,Food and Restaurants,2026-02,Wednesday,True,False
+TXN1068,2026-02-25,Credit Card ...9033,CHICKFILA 882,-8.53,Purchase,Chick-fil-A,Food and Restaurants,2026-02,Wednesday,True,False
+TXN1035,2026-02-26,Checking ...4821,DD *DOORDASH,-44.47,Purchase,DoorDash,Food and Restaurants,2026-02,Thursday,True,False
+TXN1030,2026-02-26,Credit Card ...9033,LYFT *RIDE 925,-28.21,Purchase,Lyft,Transportation,2026-02,Thursday,True,False
+TXN1074,2026-02-26,Credit Card ...9033,MISC MERCHANT 4846,-47.33,Purchase,Unknown Merchant,Uncategorized,2026-02,Thursday,True,False
+TXN1038,2026-02-27,Credit Card ...9033,WAL-MART #357,-106.76,Purchase,Walmart,Shopping,2026-02,Friday,True,False
+TXN1007,2026-02-27,Credit Card ...9033,ADOBE  *CREATIVE CLOUD,-54.99,Payment,Adobe Creative Cloud,Subscriptions,2026-02,Friday,True,False
+TXN1063,2026-02-28,Credit Card ...9033,TARGET.COM *713,-83.24,Purchase,Target,Shopping,2026-02,Saturday,True,False
+TXN1022,2026-02-28,Credit Card ...9033,PARKWHIZ 507,-16.05,Purchase,ParkWhiz,Transportation,2026-02,Saturday,True,False
+TXN1134,2026-03-02,Checking ...4821,NIKE.COM 222,-140.84,Purchase,Nike,Shopping,2026-03,Monday,True,False
+TXN1121,2026-03-02,Credit Card ...9033,AMAZON.COM*720 AMZN.COM/BILL WA,-56.46,Purchase,Amazon,Shopping,2026-03,Monday,True,False
+TXN1079,2026-03-02,Credit Card ...9033,SPOTIFY USA,-11.99,Payment,Spotify,Subscriptions,2026-03,Monday,True,False
+TXN1089,2026-03-02,Checking ...4821,VERIZON WIRELESS PMT,-85.0,Payment,Verizon Wireless,Bills,2026-03,Monday,True,False
+TXN1086,2026-03-02,Checking ...4821,PACIFIC POWER 515,-143.8,Payment,Unknown Merchant,Uncategorized,2026-03,Monday,True,False
+TXN1110,2026-03-02,Checking ...4821,TRADER JOES 471,-87.67,Purchase,Trader Joe's,Food and Restaurants,2026-03,Monday,True,False
+TXN1137,2026-03-02,Checking ...4821,DD *DOORDASH,-23.31,Purchase,DoorDash,Food and Restaurants,2026-03,Monday,True,False
+TXN1142,2026-03-02,Credit Card ...9033,DEBIT CARD PURCHASE,-8.95,Purchase,Unknown Merchant,Uncategorized,2026-03,Monday,True,False
+TXN1105,2026-03-02,Credit Card ...9033,TRADER JOES 231,-83.64,Purchase,Trader Joe's,Food and Restaurants,2026-03,Monday,True,False
+TXN1127,2026-03-03,Checking ...4821,WHOLE FOODS MARKET,-102.95,Purchase,Whole Foods Market,Food and Restaurants,2026-03,Tuesday,True,False
+TXN1106,2026-03-03,Checking ...4821,CHIPOTLE ONLINE 497,-11.53,Purchase,Chipotle,Food and Restaurants,2026-03,Tuesday,True,False
+TXN1090,2026-03-03,Checking ...4821,STATEFARM 873,-120.0,Payment,State Farm Insurance,Bills,2026-03,Tuesday,True,False
+TXN1080,2026-03-03,Credit Card ...9033,AMAZON PRIME*575,-14.99,Payment,Amazon Prime,Subscriptions,2026-03,Tuesday,True,False
+TXN1128,2026-03-03,Credit Card ...9033,BEST BUY #313,-113.74,Purchase,Best Buy,Shopping,2026-03,Tuesday,True,False
+TXN1096,2026-03-04,Credit Card ...9033,CHEVRON 176,-33.35,Purchase,Chevron,Transportation,2026-03,Wednesday,True,False
+TXN1083,2026-03-04,Checking ...4821,APPLE.COM/BILL,-2.99,Payment,iCloud Storage,Subscriptions,2026-03,Wednesday,True,False
+TXN1117,2026-03-04,Credit Card ...9033,LOCAL DINER #182,-11.55,Purchase,Local Diner,Food and Restaurants,2026-03,Wednesday,True,False
+TXN1076,2026-03-05,Checking ...4821,RENTERSINS CO 885,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-03,Thursday,True,False
+TXN1132,2026-03-07,Checking ...4821,BESTBUY.COM 357,-134.32,Purchase,Best Buy,Shopping,2026-03,Saturday,True,False
+TXN1135,2026-03-07,Credit Card ...9033,TARGET.COM *624,-136.27,Purchase,Target,Shopping,2026-03,Saturday,True,False
+TXN1131,2026-03-07,Checking ...4821,AUTOZONE #351,-48.83,Purchase,AutoZone,Transportation,2026-03,Saturday,True,False
+TXN1138,2026-03-07,Checking ...4821,ACME CORP PAYROLL DEP,2066.94,Deposit,Acme Corp Payroll,Income,2026-03,Saturday,False,True
+TXN1088,2026-03-07,Credit Card ...9033,COMCAST CABLE COMM,-79.99,Payment,Comcast Xfinity,Bills,2026-03,Saturday,True,False
+TXN1119,2026-03-07,Credit Card ...9033,CHEVRON/TEXACO 297,-39.93,Purchase,Chevron,Transportation,2026-03,Saturday,True,False
+TXN1108,2026-03-08,Checking ...4821,TRADER JOES 821,-34.34,Purchase,Trader Joe's,Food and Restaurants,2026-03,Sunday,True,False
+TXN1095,2026-03-10,Credit Card ...9033,DD *DOORDASH,-24.79,Purchase,DoorDash,Food and Restaurants,2026-03,Tuesday,True,False
+TXN1092,2026-03-11,Checking ...4821,LOCAL DINER #903,-14.82,Purchase,Local Diner,Food and Restaurants,2026-03,Wednesday,True,False
+TXN1075,2026-03-11,Checking ...4821,SKYLINE APARTMENTS RENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-03,Wednesday,True,False
+TXN1097,2026-03-11,Checking ...4821,LOCAL DINER #537,-28.94,Purchase,Local Diner,Food and Restaurants,2026-03,Wednesday,True,False
+TXN1084,2026-03-12,Credit Card ...9033,DISNEYPLUS.COM,-13.99,Payment,Disney Plus,Subscriptions,2026-03,Thursday,True,False
+TXN1126,2026-03-12,Credit Card ...9033,DOORDASH*624,-39.84,Purchase,DoorDash,Food and Restaurants,2026-03,Thursday,True,False
+TXN1101,2026-03-13,Checking ...4821,WHOLE FOODS MARKET,-102.58,Purchase,Whole Foods Market,Food and Restaurants,2026-03,Friday,True,False
+TXN1077,2026-03-13,Credit Card ...9033,CITY TRANSIT AUTHORITY,-60.0,Payment,City Transit Authority,Transportation,2026-03,Friday,True,False
+TXN1140,2026-03-13,Checking ...4821,VENMO   TRANSFER IN,96.7,Transfer,Venmo Transfer,Transfer,2026-03,Friday,False,False
+TXN1114,2026-03-14,Credit Card ...9033,LYFT *RIDE 288,-10.11,Purchase,Lyft,Transportation,2026-03,Saturday,True,False
+TXN1099,2026-03-14,Credit Card ...9033,AUTOZONE #485,-44.48,Purchase,AutoZone,Transportation,2026-03,Saturday,True,False
+TXN1091,2026-03-14,Checking ...4821,FED STUDENT LOAN SVC,-210.0,Payment,Federal Student Loan Servicer,Education,2026-03,Saturday,True,False
+TXN1112,2026-03-15,Checking ...4821,TRADER JOES 211,-49.72,Purchase,Trader Joe's,Food and Restaurants,2026-03,Sunday,True,False
+TXN1129,2026-03-15,Checking ...4821,AUTOZONE #526,-28.34,Purchase,AutoZone,Transportation,2026-03,Sunday,True,False
+TXN1133,2026-03-15,Checking ...4821,CHIPOTLE ONLINE 104,-16.19,Purchase,Chipotle,Food and Restaurants,2026-03,Sunday,True,False
+TXN1451,2026-03-17,Credit Card ...9033,BESTBUY.COM 199,-1249.0,Purchase,Best Buy,Shopping,2026-03,Tuesday,True,False
+TXN1103,2026-03-17,Checking ...4821,NIKE STORE #354,-138.38,Purchase,Nike,Shopping,2026-03,Tuesday,True,False
+TXN1087,2026-03-17,Credit Card ...9033,METRO WATER 101,-32.51,Payment,Metro Water Utility,Bills,2026-03,Tuesday,True,False
+TXN1098,2026-03-18,Checking ...4821,MCDONALD'S F477,-6.81,Purchase,McDonald's,Food and Restaurants,2026-03,Wednesday,True,False
+TXN1093,2026-03-18,Credit Card ...9033,SHELL OIL 150,-49.22,Purchase,Shell Gas Station,Transportation,2026-03,Wednesday,True,False
+TXN1107,2026-03-18,Checking ...4821,STARBUCKS #385,-5.61,Purchase,Starbucks,Food and Restaurants,2026-03,Wednesday,True,False
+TXN1082,2026-03-18,Credit Card ...9033,ANYTIMEFIT MEMBERSHIP,-39.99,Payment,Anytime Fitness,Subscriptions,2026-03,Wednesday,True,False
+TXN1100,2026-03-19,Checking ...4821,CHICK-FIL-A #803,-15.23,Purchase,Chick-fil-A,Food and Restaurants,2026-03,Thursday,True,False
+TXN1085,2026-03-19,Credit Card ...9033,GOOGLE *YOUTUBE PREM,-13.99,Payment,YouTube Premium,Subscriptions,2026-03,Thursday,True,False
+TXN1122,2026-03-20,Checking ...4821,OLDNAVY.COM,-23.14,Purchase,Old Navy,Shopping,2026-03,Friday,True,False
+TXN1120,2026-03-21,Checking ...4821,CHICKFILA 141,-10.64,Purchase,Chick-fil-A,Food and Restaurants,2026-03,Saturday,True,False
+TXN1078,2026-03-21,Checking ...4821,NETFLIX.COM,-15.49,Payment,Netflix,Subscriptions,2026-03,Saturday,True,False
+TXN1130,2026-03-22,Credit Card ...9033,TARGET.COM *400,-114.95,Purchase,Target,Shopping,2026-03,Sunday,True,False
+TXN1136,2026-03-22,Checking ...4821,PARKWHIZ *PARKING,-20.16,Purchase,ParkWhiz,Transportation,2026-03,Sunday,True,False
+TXN1109,2026-03-22,Credit Card ...9033,CHICK-FIL-A #363,-12.59,Purchase,Chick-fil-A,Food and Restaurants,2026-03,Sunday,True,False
+TXN1104,2026-03-22,Checking ...4821,CHICKFILA 187,-8.15,Purchase,Chick-fil-A,Food and Restaurants,2026-03,Sunday,True,False
+TXN1113,2026-03-22,Checking ...4821,CHICK-FIL-A #502,-7.72,Purchase,Chick-fil-A,Food and Restaurants,2026-03,Sunday,True,False
+TXN1141,2026-03-23,Credit Card ...9033,AMAZON.COM REFUND,59.41,Refund,Amazon,Shopping,2026-03,Monday,False,False
+TXN1115,2026-03-24,Checking ...4821,BEST BUY #269,-62.92,Purchase,Best Buy,Shopping,2026-03,Tuesday,True,False
+TXN1116,2026-03-24,Credit Card ...9033,NIKE STORE #780,-93.78,Purchase,Nike,Shopping,2026-03,Tuesday,True,False
+TXN1118,2026-03-25,Credit Card ...9033,MCDONALDS #887,-7.72,Purchase,McDonald's,Food and Restaurants,2026-03,Wednesday,True,False
+TXN1139,2026-03-25,Checking ...4821,ACME CORP DIRECT DEP,2056.73,Deposit,Acme Corp Payroll,Income,2026-03,Wednesday,False,True
+TXN1124,2026-03-25,Checking ...4821,OLDNAVY.COM,-47.83,Purchase,Old Navy,Shopping,2026-03,Wednesday,True,False
+TXN1123,2026-03-26,Checking ...4821,LYFT *RIDE 124,-21.4,Purchase,Lyft,Transportation,2026-03,Thursday,True,False
+TXN1125,2026-03-26,Checking ...4821,TRADER JOES 942,-106.48,Purchase,Trader Joe's,Food and Restaurants,2026-03,Thursday,True,False
+TXN1102,2026-03-26,Credit Card ...9033,AUTOZONE INC,-51.44,Purchase,AutoZone,Transportation,2026-03,Thursday,True,False
+TXN1081,2026-03-27,Credit Card ...9033,ADOBE  *CREATIVE CLOUD,-54.99,Payment,Adobe Creative Cloud,Subscriptions,2026-03,Friday,True,False
+TXN1111,2026-03-28,Credit Card ...9033,WHOLEFDS MKT #607,-88.49,Purchase,Whole Foods Market,Food and Restaurants,2026-03,Saturday,True,False
+TXN1094,2026-03-28,Checking ...4821,MCDONALD'S F663,-8.33,Purchase,McDonald's,Food and Restaurants,2026-03,Saturday,True,False
+TXN1172,2026-04-01,Credit Card ...9033,SHELL SERVICE STATION,-31.9,Purchase,Shell Gas Station,Transportation,2026-04,Wednesday,True,False
+TXN1154,2026-04-02,Credit Card ...9033,PACIFIC PWR ELEC BILL,-145.54,Payment,Pacific Power Electric,Bills,2026-04,Thursday,True,False
+TXN1147,2026-04-02,Checking ...4821,SPOTIFY   P191,-11.99,Payment,Spotify,Subscriptions,2026-04,Thursday,True,False
+TXN1189,2026-04-02,Credit Card ...9033,TRADER JOE S #944,-34.75,Purchase,Trader Joe's,Food and Restaurants,2026-04,Thursday,True,False
+TXN1177,2026-04-02,Checking ...4821,WHOLEFDS MKT #112,-129.17,Purchase,Whole Foods Market,Food and Restaurants,2026-04,Thursday,True,False
+TXN1157,2026-04-02,Credit Card ...9033,VERIZON WIRELESS PMT,-85.0,Payment,Verizon Wireless,Bills,2026-04,Thursday,True,False
+TXN1158,2026-04-03,Checking ...4821,STATEFARM 881,-120.0,Payment,State Farm Insurance,Bills,2026-04,Friday,True,False
+TXN1148,2026-04-03,Checking ...4821,AMAZON PRIME*265,-14.99,Payment,Amazon Prime,Subscriptions,2026-04,Friday,True,False
+TXN1151,2026-04-04,Checking ...4821,ICLOUD STORAGE,-2.99,Payment,iCloud Storage,Subscriptions,2026-04,Saturday,True,False
+TXN1186,2026-04-04,Checking ...4821,SQ *STARBUCKS #453 SEATTLE WA,-7.05,Purchase,Starbucks,Food and Restaurants,2026-04,Saturday,True,False
+TXN1144,2026-04-05,Checking ...4821,RENTERS INS PREMIUM,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-04,Sunday,True,False
+TXN1200,2026-04-05,Checking ...4821,DD *DOORDASH,-42.24,Purchase,DoorDash,Food and Restaurants,2026-04,Sunday,True,False
+TXN1209,2026-04-06,Checking ...4821,ACME CORP DIRECT DEP,2013.94,Deposit,Acme Corp Payroll,Income,2026-04,Monday,False,True
+TXN1180,2026-04-06,Checking ...4821,SHELL OIL 367,-37.91,Purchase,Shell Gas Station,Transportation,2026-04,Monday,True,False
+TXN1213,2026-04-06,Credit Card ...9033,MISC MERCHANT 2656,-31.75,Purchase,Unknown Merchant,Uncategorized,2026-04,Monday,True,False
+TXN1156,2026-04-07,Credit Card ...9033,XFINITY 498,-79.99,Payment,Comcast Xfinity,Bills,2026-04,Tuesday,True,False
+TXN1204,2026-04-07,Credit Card ...9033,SHELL OIL 913,-43.45,Purchase,Shell Gas Station,Transportation,2026-04,Tuesday,True,False
+TXN1188,2026-04-07,Checking ...4821,PARKWHIZ *PARKING,-18.17,Purchase,ParkWhiz,Transportation,2026-04,Tuesday,True,False
+TXN1174,2026-04-08,Checking ...4821,NIKE STORE #198,-121.36,Purchase,Nike,Shopping,2026-04,Wednesday,True,False
+TXN1201,2026-04-09,Checking ...4821,CHEVRON 442,-46.53,Purchase,Chevron,Transportation,2026-04,Thursday,True,False
+TXN1166,2026-04-09,Checking ...4821,SHELL SERVICE STATION,-53.79,Purchase,Shell Gas Station,Transportation,2026-04,Thursday,True,False
+TXN1164,2026-04-09,Credit Card ...9033,BESTBUY.COM 247,-328.2,Purchase,Best Buy,Shopping,2026-04,Thursday,True,False
+TXN1183,2026-04-09,Credit Card ...9033,SQ*STARBUCKS COFFEE,-8.32,Purchase,Starbucks,Food and Restaurants,2026-04,Thursday,True,False
+TXN1173,2026-04-10,Checking ...4821,THE LOCAL DINER,-21.81,Purchase,Local Diner,Food and Restaurants,2026-04,Friday,True,False
+TXN1194,2026-04-10,Credit Card ...9033,CHICK-FIL-A #104,-13.54,Purchase,Chick-fil-A,Food and Restaurants,2026-04,Friday,True,False
+TXN1191,2026-04-10,Credit Card ...9033,DD *DOORDASH,-18.88,Purchase,DoorDash,Food and Restaurants,2026-04,Friday,True,False
+TXN1143,2026-04-11,Credit Card ...9033,SKYLINE APARTMENTS RENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-04,Saturday,True,False
+TXN1212,2026-04-11,Credit Card ...9033,POS PURCHASE,-9.98,Purchase,Unknown Merchant,Uncategorized,2026-04,Saturday,True,False
+TXN1203,2026-04-12,Checking ...4821,LYFT   RIDE TUE,-12.22,Purchase,Lyft,Transportation,2026-04,Sunday,True,False
+TXN1152,2026-04-12,Checking ...4821,DISNEY PLUS,-13.99,Payment,Disney Plus,Subscriptions,2026-04,Sunday,True,False
+TXN1145,2026-04-13,Credit Card ...9033,CITY TRANSIT AUTHORITY,-60.0,Payment,City Transit Authority,Transportation,2026-04,Monday,True,False
+TXN1168,2026-04-13,Credit Card ...9033,SHELL SERVICE STATION,-55.83,Purchase,Shell Gas Station,Transportation,2026-04,Monday,True,False
+TXN1175,2026-04-13,Credit Card ...9033,PARKWHIZ *PARKING,-18.08,Purchase,ParkWhiz,Transportation,2026-04,Monday,True,False
+TXN1192,2026-04-14,Credit Card ...9033,SQ*STARBUCKS COFFEE,-4.39,Purchase,Starbucks,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1159,2026-04-14,Checking ...4821,FEDLOAN SERVICING,-210.0,Payment,Federal Student Loan Servicer,Education,2026-04,Tuesday,True,False
+TXN1160,2026-04-15,Checking ...4821,CHIPOTLE ONLINE 141,-12.9,Purchase,Chipotle,Food and Restaurants,2026-04,Wednesday,True,False
+TXN1197,2026-04-16,Credit Card ...9033,PARKWHIZ *PARKING,-17.71,Purchase,ParkWhiz,Transportation,2026-04,Thursday,True,False
+TXN1176,2026-04-16,Checking ...4821,CHICK-FIL-A #145,-9.3,Purchase,Chick-fil-A,Food and Restaurants,2026-04,Thursday,True,False
+TXN1155,2026-04-17,Credit Card ...9033,METRO WATER 764,-44.95,Payment,Metro Water Utility,Bills,2026-04,Friday,True,False
+TXN1165,2026-04-17,Checking ...4821,WHOLE FOODS MARKET,-61.74,Purchase,Whole Foods Market,Food and Restaurants,2026-04,Friday,True,False
+TXN1199,2026-04-17,Checking ...4821,BEST BUY #571,-82.32,Purchase,Best Buy,Shopping,2026-04,Friday,True,False
+TXN1150,2026-04-18,Checking ...4821,ANYTIME FITNESS #594,-39.99,Payment,Anytime Fitness,Subscriptions,2026-04,Saturday,True,False
+TXN1193,2026-04-19,Checking ...4821,SQ *STARBUCKS #688 SEATTLE WA,-5.22,Purchase,Starbucks,Food and Restaurants,2026-04,Sunday,True,False
+TXN1210,2026-04-19,Checking ...4821,ACME CORP DIRECT DEP,2098.92,Deposit,Acme Corp Payroll,Income,2026-04,Sunday,False,True
+TXN1153,2026-04-19,Credit Card ...9033,YOUTUBEPREMIUM,-13.99,Payment,YouTube Premium,Subscriptions,2026-04,Sunday,True,False
+TXN1185,2026-04-19,Checking ...4821,AUTOZONE #500,-83.13,Purchase,AutoZone,Transportation,2026-04,Sunday,True,False
+TXN1454,2026-04-20,Checking ...4821,MARRIOTT 688,-540.0,Purchase,Marriott Hotels,Travel,2026-04,Monday,True,False
+TXN1162,2026-04-20,Credit Card ...9033,CHIPOTLE ONLINE 298,-14.44,Purchase,Chipotle,Food and Restaurants,2026-04,Monday,True,False
+TXN1184,2026-04-20,Checking ...4821,UBER EATS 583,-20.46,Purchase,Uber Eats,Food and Restaurants,2026-04,Monday,True,False
+TXN1170,2026-04-21,Checking ...4821,WHOLE FOODS MARKET,-134.6,Purchase,Whole Foods Market,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1171,2026-04-21,Credit Card ...9033,WHOLE FOODS MARKET,-81.22,Purchase,Whole Foods Market,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1205,2026-04-21,Credit Card ...9033,TRADER JOES 311,-104.91,Purchase,Trader Joe's,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1208,2026-04-21,Checking ...4821,CHEVRON 795,-56.16,Purchase,Chevron,Transportation,2026-04,Tuesday,True,False
+TXN1187,2026-04-21,Checking ...4821,MCDONALD'S F854,-11.04,Purchase,McDonald's,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1178,2026-04-21,Credit Card ...9033,CHICKFILA 932,-11.43,Purchase,Chick-fil-A,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1146,2026-04-21,Checking ...4821,NETFLIX.COM,-15.49,Payment,Netflix,Subscriptions,2026-04,Tuesday,True,False
+TXN1182,2026-04-22,Checking ...4821,CHEVRON/TEXACO 402,-53.23,Purchase,Chevron,Transportation,2026-04,Wednesday,True,False
+TXN1181,2026-04-23,Credit Card ...9033,BESTBUY.COM 828,-340.85,Purchase,Best Buy,Shopping,2026-04,Thursday,True,False
+TXN1179,2026-04-24,Credit Card ...9033,SHELL OIL 484,-57.4,Purchase,Shell Gas Station,Transportation,2026-04,Friday,True,False
+TXN1161,2026-04-24,Checking ...4821,DOORDASH*870,-32.08,Purchase,DoorDash,Food and Restaurants,2026-04,Friday,True,False
+TXN1198,2026-04-24,Credit Card ...9033,NIKE.COM 480,-49.91,Purchase,Nike,Shopping,2026-04,Friday,True,False
+TXN1207,2026-04-24,Credit Card ...9033,WHOLEFDS MKT #973,-78.47,Purchase,Whole Foods Market,Food and Restaurants,2026-04,Friday,True,False
+TXN1190,2026-04-25,Credit Card ...9033,CHIPOTLE MEXICAN GRILL,-13.86,Purchase,Chipotle,Food and Restaurants,2026-04,Saturday,True,False
+TXN1202,2026-04-25,Checking ...4821,WHOLEFDS MKT #840,-108.32,Purchase,Whole Foods Market,Food and Restaurants,2026-04,Saturday,True,False
+TXN1169,2026-04-25,Credit Card ...9033,UBER *EATS,-16.2,Purchase,Uber Eats,Food and Restaurants,2026-04,Saturday,True,False
+TXN1206,2026-04-26,Credit Card ...9033,UBER *EATS,-25.79,Purchase,Uber Eats,Food and Restaurants,2026-04,Sunday,True,False
+TXN1163,2026-04-26,Credit Card ...9033,AMAZON.COM*167 AMZN.COM/BILL WA,-40.56,Purchase,Amazon,Shopping,2026-04,Sunday,True,False
+TXN1196,2026-04-27,Checking ...4821,MCDONALD'S F610,-7.77,Purchase,McDonald's,Food and Restaurants,2026-04,Monday,True,False
+TXN1195,2026-04-27,Credit Card ...9033,CHEVRON/TEXACO 706,-33.9,Purchase,Chevron,Transportation,2026-04,Monday,True,False
+TXN1149,2026-04-27,Credit Card ...9033,ADOBE CREATIVE CL,-54.99,Payment,Adobe Creative Cloud,Subscriptions,2026-04,Monday,True,False
+TXN1167,2026-04-28,Credit Card ...9033,STARBUCKS #668,-5.87,Purchase,Starbucks,Food and Restaurants,2026-04,Tuesday,True,False
+TXN1211,2026-04-28,Checking ...4821,VENMO   TRANSFER IN,82.19,Transfer,Venmo Transfer,Transfer,2026-04,Tuesday,False,False
+TXN1270,2026-05-01,Checking ...4821,CHICK-FIL-A #991,-8.03,Purchase,Chick-fil-A,Food and Restaurants,2026-05,Friday,True,False
+TXN1274,2026-05-02,Checking ...4821,ACME CORP PAYROLL DEP,2069.69,Deposit,Acme Corp Payroll,Income,2026-05,Saturday,False,True
+TXN1218,2026-05-02,Credit Card ...9033,SPOTIFY USA,-11.99,Payment,Spotify,Subscriptions,2026-05,Saturday,True,False
+TXN1225,2026-05-02,Credit Card ...9033,PACIFIC PWR ELEC BILL,-146.56,Payment,Pacific Power Electric,Bills,2026-05,Saturday,True,False
+TXN1228,2026-05-02,Credit Card ...9033,VZWRLSS*902,-85.0,Payment,Verizon Wireless,Bills,2026-05,Saturday,True,False
+TXN1229,2026-05-03,Checking ...4821,STATE FARM INS,-120.0,Payment,State Farm Insurance,Bills,2026-05,Sunday,True,False
+TXN1219,2026-05-03,Credit Card ...9033,PRIME VIDEO CHANNELS,-14.99,Payment,Amazon Prime,Subscriptions,2026-05,Sunday,True,False
+TXN1222,2026-05-04,Credit Card ...9033,APPLE.COM/BILL,-2.99,Payment,iCloud Storage,Subscriptions,2026-05,Monday,True,False
+TXN1238,2026-05-05,Credit Card ...9033,CHICKFILA 740,-7.53,Purchase,Chick-fil-A,Food and Restaurants,2026-05,Tuesday,True,False
+TXN1251,2026-05-05,Checking ...4821,CHICKFILA 104,-12.42,Purchase,Chick-fil-A,Food and Restaurants,2026-05,Tuesday,True,False
+TXN1215,2026-05-05,Checking ...4821,RENTERSINS CO 859,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-05,Tuesday,True,False
+TXN1272,2026-05-06,Credit Card ...9033,DOORDASH*152,-28.28,Purchase,DoorDash,Food and Restaurants,2026-05,Wednesday,True,False
+TXN1235,2026-05-06,Credit Card ...9033,WHOLEFDS MKT #264,-91.95,Purchase,Whole Foods Market,Food and Restaurants,2026-05,Wednesday,True,False
+TXN1252,2026-05-07,Credit Card ...9033,WAL-MART #583,-106.3,Purchase,Walmart,Shopping,2026-05,Thursday,True,False
+TXN1267,2026-05-07,Credit Card ...9033,LYFT *RIDE 285,-13.23,Purchase,Lyft,Transportation,2026-05,Thursday,True,False
+TXN1227,2026-05-07,Checking ...4821,XFINITY 974,-79.99,Payment,Comcast Xfinity,Bills,2026-05,Thursday,True,False
+TXN1265,2026-05-09,Credit Card ...9033,TRADER JOE S #910,-78.91,Purchase,Trader Joe's,Food and Restaurants,2026-05,Saturday,True,False
+TXN1258,2026-05-09,Checking ...4821,PARKWHIZ 399,-17.66,Purchase,ParkWhiz,Transportation,2026-05,Saturday,True,False
+TXN1242,2026-05-10,Credit Card ...9033,DOORDASH*903,-21.14,Purchase,DoorDash,Food and Restaurants,2026-05,Sunday,True,False
+TXN1236,2026-05-10,Checking ...4821,CHICKFILA 536,-14.18,Purchase,Chick-fil-A,Food and Restaurants,2026-05,Sunday,True,False
+TXN1214,2026-05-11,Credit Card ...9033,SKYLINE APARTMENTS RENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-05,Monday,True,False
+TXN1239,2026-05-11,Credit Card ...9033,SHELL OIL 390,-46.61,Purchase,Shell Gas Station,Transportation,2026-05,Monday,True,False
+TXN1223,2026-05-12,Checking ...4821,DISNEYPLUS.COM,-13.99,Payment,Disney Plus,Subscriptions,2026-05,Tuesday,True,False
+TXN1231,2026-05-12,Checking ...4821,PARKWHIZ *PARKING,-17.67,Purchase,ParkWhiz,Transportation,2026-05,Tuesday,True,False
+TXN1266,2026-05-12,Credit Card ...9033,UBER   TRIP 507,-26.58,Purchase,Uber,Transportation,2026-05,Tuesday,True,False
+TXN1216,2026-05-13,Credit Card ...9033,CITY TRANSIT AUTHORITY,-60.0,Payment,City Transit Authority,Transportation,2026-05,Wednesday,True,False
+TXN1230,2026-05-14,Checking ...4821,FEDLOAN SERVICING,-210.0,Payment,Federal Student Loan Servicer,Education,2026-05,Thursday,True,False
+TXN1260,2026-05-14,Credit Card ...9033,DOORDASH*485,-45.33,Purchase,DoorDash,Food and Restaurants,2026-05,Thursday,True,False
+TXN1248,2026-05-14,Checking ...4821,DOORDASH*609,-33.64,Purchase,DoorDash,Food and Restaurants,2026-05,Thursday,True,False
+TXN1271,2026-05-14,Credit Card ...9033,PARKWHIZ 885,-7.01,Purchase,ParkWhiz,Transportation,2026-05,Thursday,True,False
+TXN1233,2026-05-15,Credit Card ...9033,AUTOZONE #668,-66.68,Purchase,AutoZone,Transportation,2026-05,Friday,True,False
+TXN1254,2026-05-16,Checking ...4821,UBER *TRIP HELP.UBER.COM,-19.16,Purchase,Uber,Transportation,2026-05,Saturday,True,False
+TXN1244,2026-05-16,Checking ...4821,AMAZON.COM*907 AMZN.COM/BILL WA,-117.3,Purchase,Amazon,Shopping,2026-05,Saturday,True,False
+TXN1234,2026-05-16,Checking ...4821,TARGET      #595,-81.63,Purchase,Target,Shopping,2026-05,Saturday,True,False
+TXN1226,2026-05-17,Credit Card ...9033,METRO WATER 538,-38.29,Payment,Metro Water Utility,Bills,2026-05,Sunday,True,False
+TXN1243,2026-05-18,Checking ...4821,BESTBUY.COM 407,-217.3,Purchase,Best Buy,Shopping,2026-05,Monday,True,False
+TXN1221,2026-05-18,Checking ...4821,ANYTIME FITNESS #895,-39.99,Payment,Anytime Fitness,Subscriptions,2026-05,Monday,True,False
+TXN1224,2026-05-19,Credit Card ...9033,GOOGLE *YOUTUBE PREM,-13.99,Payment,YouTube Premium,Subscriptions,2026-05,Tuesday,True,False
+TXN1275,2026-05-19,Checking ...4821,ACME CORP PAYROLL DEP,2042.77,Deposit,Acme Corp Payroll,Income,2026-05,Tuesday,False,True
+TXN1245,2026-05-20,Credit Card ...9033,CHEVRON 317,-56.04,Purchase,Chevron,Transportation,2026-05,Wednesday,True,False
+TXN1237,2026-05-21,Checking ...4821,UBER *EATS,-14.77,Purchase,Uber Eats,Food and Restaurants,2026-05,Thursday,True,False
+TXN1217,2026-05-21,Credit Card ...9033,NETFLIX.COM   LOS GATOS CA,-15.49,Payment,Netflix,Subscriptions,2026-05,Thursday,True,False
+TXN1269,2026-05-21,Checking ...4821,CHIPOTLE ONLINE 259,-12.63,Purchase,Chipotle,Food and Restaurants,2026-05,Thursday,True,False
+TXN1250,2026-05-22,Checking ...4821,UDEMY.COM 888,-83.63,Purchase,Udemy,Education,2026-05,Friday,True,False
+TXN1246,2026-05-22,Checking ...4821,MCDONALD'S F531,-7.51,Purchase,McDonald's,Food and Restaurants,2026-05,Friday,True,False
+TXN1255,2026-05-22,Credit Card ...9033,BEST BUY #498,-298.81,Purchase,Best Buy,Shopping,2026-05,Friday,True,False
+TXN1249,2026-05-23,Credit Card ...9033,LOCAL DINER #168,-27.58,Purchase,Local Diner,Food and Restaurants,2026-05,Saturday,True,False
+TXN1253,2026-05-24,Checking ...4821,WHOLEFDS MKT #474,-112.42,Purchase,Whole Foods Market,Food and Restaurants,2026-05,Sunday,True,False
+TXN1268,2026-05-25,Credit Card ...9033,UBER *EATS,-27.96,Purchase,Uber Eats,Food and Restaurants,2026-05,Monday,True,False
+TXN1264,2026-05-25,Credit Card ...9033,TRADER JOE S #416,-89.78,Purchase,Trader Joe's,Food and Restaurants,2026-05,Monday,True,False
+TXN1257,2026-05-26,Credit Card ...9033,MCDONALD'S F744,-7.01,Purchase,McDonald's,Food and Restaurants,2026-05,Tuesday,True,False
+TXN1259,2026-05-26,Checking ...4821,SHELL SERVICE STATION,-58.96,Purchase,Shell Gas Station,Transportation,2026-05,Tuesday,True,False
+TXN1263,2026-05-26,Credit Card ...9033,TARGET.COM *455,-88.48,Purchase,Target,Shopping,2026-05,Tuesday,True,False
+TXN1247,2026-05-26,Checking ...4821,AMZN MKTP US*983,-65.52,Purchase,Amazon,Shopping,2026-05,Tuesday,True,False
+TXN1232,2026-05-26,Checking ...4821,BESTBUY.COM 302,-238.26,Purchase,Best Buy,Shopping,2026-05,Tuesday,True,False
+TXN1261,2026-05-26,Credit Card ...9033,BEST BUY #429,-176.18,Purchase,Best Buy,Shopping,2026-05,Tuesday,True,False
+TXN1220,2026-05-27,Credit Card ...9033,ADOBE  *CREATIVE CLOUD,-54.99,Payment,Adobe Creative Cloud,Subscriptions,2026-05,Wednesday,True,False
+TXN1262,2026-05-27,Checking ...4821,LYFT *RIDE 395,-23.91,Purchase,Lyft,Transportation,2026-05,Wednesday,True,False
+TXN1240,2026-05-27,Credit Card ...9033,UBER *TRIP HELP.UBER.COM,-15.08,Purchase,Uber,Transportation,2026-05,Wednesday,True,False
+TXN1241,2026-05-28,Checking ...4821,ENTERPRISE RENT-A-CAR,-138.56,Purchase,Enterprise Rent-A-Car,Travel,2026-05,Thursday,True,False
+TXN1273,2026-05-28,Checking ...4821,THE LOCAL DINER,-27.42,Purchase,Local Diner,Food and Restaurants,2026-05,Thursday,True,False
+TXN1256,2026-05-28,Credit Card ...9033,MCDONALD'S F423,-12.61,Purchase,McDonald's,Food and Restaurants,2026-05,Thursday,True,False
+TXN1339,2026-06-01,Checking ...4821,ACME CORP DIRECT DEP,2059.78,Deposit,Acme Corp Payroll,Income,2026-06,Monday,False,True
+TXN1332,2026-06-01,Credit Card ...9033,OLDNAVY.COM,-23.42,Purchase,Old Navy,Shopping,2026-06,Monday,True,False
+TXN1290,2026-06-02,Checking ...4821,VZWRLSS*567,-85.0,Payment,Verizon Wireless,Bills,2026-06,Tuesday,True,False
+TXN1315,2026-06-02,Checking ...4821,AMZN MKTP US*794,-17.95,Purchase,Amazon,Shopping,2026-06,Tuesday,True,False
+TXN1280,2026-06-02,Credit Card ...9033,SPOTIFY USA,-11.99,Payment,Spotify,Subscriptions,2026-06,Tuesday,True,False
+TXN1287,2026-06-02,Checking ...4821,PACIFIC PWR ELEC BILL,-91.89,Payment,Pacific Power Electric,Bills,2026-06,Tuesday,True,False
+TXN1291,2026-06-03,Credit Card ...9033,STATE FARM INS,-120.0,Payment,State Farm Insurance,Bills,2026-06,Wednesday,True,False
+TXN1334,2026-06-03,Credit Card ...9033,SQ *STARBUCKS #519 SEATTLE WA,-6.61,Purchase,Starbucks,Food and Restaurants,2026-06,Wednesday,True,False
+TXN1281,2026-06-03,Credit Card ...9033,PRIME VIDEO CHANNELS,-14.99,Payment,Amazon Prime,Subscriptions,2026-06,Wednesday,True,False
+TXN1317,2026-06-04,Checking ...4821,SHELL SERVICE STATION,-32.11,Purchase,Shell Gas Station,Transportation,2026-06,Thursday,True,False
+TXN1327,2026-06-04,Checking ...4821,UBER   TRIP 527,-20.05,Purchase,Uber,Transportation,2026-06,Thursday,True,False
+TXN1284,2026-06-04,Checking ...4821,APPLE.COM/BILL,-2.99,Payment,iCloud Storage,Subscriptions,2026-06,Thursday,True,False
+TXN1330,2026-06-05,Checking ...4821,DD *DOORDASH,-29.92,Purchase,DoorDash,Food and Restaurants,2026-06,Friday,True,False
+TXN1294,2026-06-05,Checking ...4821,MARRIOTT 552,-414.02,Purchase,Marriott Hotels,Travel,2026-06,Friday,True,False
+TXN1335,2026-06-05,Credit Card ...9033,NIKE STORE #598,-141.18,Purchase,Nike,Shopping,2026-06,Friday,True,False
+TXN1277,2026-06-05,Credit Card ...9033,RENTERS INS PREMIUM,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-06,Friday,True,False
+TXN1296,2026-06-05,Checking ...4821,UBER   TRIP 828,-28.27,Purchase,Uber,Transportation,2026-06,Friday,True,False
+TXN1301,2026-06-06,Credit Card ...9033,WHOLE FOODS MARKET,-94.31,Purchase,Whole Foods Market,Food and Restaurants,2026-06,Saturday,True,False
+TXN1289,2026-06-07,Credit Card ...9033,XFINITY 442,-79.99,Payment,Comcast Xfinity,Bills,2026-06,Sunday,True,False
+TXN1309,2026-06-08,Checking ...4821,TRADER JOES 864,-43.78,Purchase,Trader Joe's,Food and Restaurants,2026-06,Monday,True,False
+TXN1293,2026-06-08,Checking ...4821,COURSERA.ORG,-49.0,Purchase,Coursera,Education,2026-06,Monday,True,False
+TXN1318,2026-06-10,Checking ...4821,CHICKFILA 380,-14.8,Purchase,Chick-fil-A,Food and Restaurants,2026-06,Wednesday,True,False
+TXN1337,2026-06-10,Credit Card ...9033,CHIPOTLE ONLINE 771,-12.96,Purchase,Chipotle,Food and Restaurants,2026-06,Wednesday,True,False
+TXN1312,2026-06-11,Credit Card ...9033,UBER   TRIP 432,-27.6,Purchase,Uber,Transportation,2026-06,Thursday,True,False
+TXN1276,2026-06-11,Credit Card ...9033,SKYLINE APT PAYMENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-06,Thursday,True,False
+TXN1285,2026-06-12,Checking ...4821,DISNEY PLUS,-13.99,Payment,Disney Plus,Subscriptions,2026-06,Friday,True,False
+TXN1311,2026-06-12,Credit Card ...9033,SQ *STARBUCKS #958 SEATTLE WA,-5.77,Purchase,Starbucks,Food and Restaurants,2026-06,Friday,True,False
+TXN1302,2026-06-12,Checking ...4821,WALMART.COM 628,-69.58,Purchase,Walmart,Shopping,2026-06,Friday,True,False
+TXN1278,2026-06-13,Checking ...4821,CTA MONTHLY PASS,-60.0,Payment,City Transit Authority,Transportation,2026-06,Saturday,True,False
+TXN1341,2026-06-13,Checking ...4821,POS PURCHASE,-17.11,Purchase,Unknown Merchant,Uncategorized,2026-06,Saturday,True,False
+TXN1338,2026-06-14,Checking ...4821,UDEMY.COM 935,-58.8,Purchase,Udemy,Education,2026-06,Sunday,True,False
+TXN1292,2026-06-14,Credit Card ...9033,FED STUDENT LOAN SVC,-210.0,Payment,Federal Student Loan Servicer,Education,2026-06,Sunday,True,False
+TXN1319,2026-06-15,Checking ...4821,WHOLEFDS MKT #765,-99.0,Purchase,Whole Foods Market,Food and Restaurants,2026-06,Monday,True,False
+TXN1328,2026-06-15,Credit Card ...9033,LOCAL DINER #399,-16.54,Purchase,Local Diner,Food and Restaurants,2026-06,Monday,True,False
+TXN1300,2026-06-16,Checking ...4821,SHELL SERVICE STATION,-33.16,Purchase,Shell Gas Station,Transportation,2026-06,Tuesday,True,False
+TXN1288,2026-06-17,Credit Card ...9033,METRO WATER UTIL,-41.13,Payment,Metro Water Utility,Bills,2026-06,Wednesday,True,False
+TXN1316,2026-06-17,Checking ...4821,WHOLEFDS MKT #140,-39.37,Purchase,Whole Foods Market,Food and Restaurants,2026-06,Wednesday,True,False
+TXN1295,2026-06-17,Credit Card ...9033,PARKWHIZ 545,-9.94,Purchase,ParkWhiz,Transportation,2026-06,Wednesday,True,False
+TXN1321,2026-06-17,Checking ...4821,TRADER JOES 112,-75.67,Purchase,Trader Joe's,Food and Restaurants,2026-06,Wednesday,True,False
+TXN1320,2026-06-18,Checking ...4821,UBER EATS 580,-22.2,Purchase,Uber Eats,Food and Restaurants,2026-06,Thursday,True,False
+TXN1283,2026-06-18,Checking ...4821,ANYTIME FITNESS #918,-39.99,Payment,Anytime Fitness,Subscriptions,2026-06,Thursday,True,False
+TXN1323,2026-06-18,Credit Card ...9033,STARBUCKS #550,-4.55,Purchase,Starbucks,Food and Restaurants,2026-06,Thursday,True,False
+TXN1322,2026-06-18,Credit Card ...9033,WHOLE FOODS MARKET,-70.55,Purchase,Whole Foods Market,Food and Restaurants,2026-06,Thursday,True,False
+TXN1336,2026-06-19,Credit Card ...9033,BEST BUY #274,-140.0,Purchase,Best Buy,Shopping,2026-06,Friday,True,False
+TXN1286,2026-06-19,Credit Card ...9033,GOOGLE *YOUTUBE PREM,-13.99,Payment,YouTube Premium,Subscriptions,2026-06,Friday,True,False
+TXN1305,2026-06-20,Checking ...4821,CHIPOTLE ONLINE 419,-10.73,Purchase,Chipotle,Food and Restaurants,2026-06,Saturday,True,False
+TXN1297,2026-06-20,Checking ...4821,TARGET.COM *279,-111.36,Purchase,Target,Shopping,2026-06,Saturday,True,False
+TXN1329,2026-06-21,Credit Card ...9033,LYFT   RIDE TUE,-15.35,Purchase,Lyft,Transportation,2026-06,Sunday,True,False
+TXN1313,2026-06-21,Checking ...4821,THE LOCAL DINER,-11.7,Purchase,Local Diner,Food and Restaurants,2026-06,Sunday,True,False
+TXN1310,2026-06-21,Credit Card ...9033,STARBUCKS #711,-6.0,Purchase,Starbucks,Food and Restaurants,2026-06,Sunday,True,False
+TXN1326,2026-06-21,Checking ...4821,SHELL OIL 522,-62.01,Purchase,Shell Gas Station,Transportation,2026-06,Sunday,True,False
+TXN1279,2026-06-21,Credit Card ...9033,NETFLIX.COM,-15.49,Payment,Netflix,Subscriptions,2026-06,Sunday,True,False
+TXN1333,2026-06-22,Credit Card ...9033,CHICKFILA 466,-10.8,Purchase,Chick-fil-A,Food and Restaurants,2026-06,Monday,True,False
+TXN1325,2026-06-22,Credit Card ...9033,DD *DOORDASH,-23.27,Purchase,DoorDash,Food and Restaurants,2026-06,Monday,True,False
+TXN1314,2026-06-22,Credit Card ...9033,TRADER JOE S #530,-33.67,Purchase,Trader Joe's,Food and Restaurants,2026-06,Monday,True,False
+TXN1306,2026-06-24,Checking ...4821,NIKE.COM 957,-62.43,Purchase,Nike,Shopping,2026-06,Wednesday,True,False
+TXN1304,2026-06-24,Checking ...4821,CHIPOTLE ONLINE 643,-12.84,Purchase,Chipotle,Food and Restaurants,2026-06,Wednesday,True,False
+TXN1324,2026-06-25,Credit Card ...9033,UBER *EATS,-16.95,Purchase,Uber Eats,Food and Restaurants,2026-06,Thursday,True,False
+TXN1340,2026-06-25,Checking ...4821,ACME CORP DIRECT DEP,1981.5,Deposit,Acme Corp Payroll,Income,2026-06,Thursday,False,True
+TXN1308,2026-06-25,Checking ...4821,LYFT *RIDE 224,-14.52,Purchase,Lyft,Transportation,2026-06,Thursday,True,False
+TXN1298,2026-06-26,Checking ...4821,AUTOZONE INC,-29.8,Purchase,AutoZone,Transportation,2026-06,Friday,True,False
+TXN1282,2026-06-27,Checking ...4821,ADOBE  *CREATIVE CLOUD,-54.99,Payment,Adobe Creative Cloud,Subscriptions,2026-06,Saturday,True,False
+TXN1299,2026-06-27,Credit Card ...9033,CHICK-FIL-A #630,-13.2,Purchase,Chick-fil-A,Food and Restaurants,2026-06,Saturday,True,False
+TXN1303,2026-06-27,Checking ...4821,WHOLE FOODS MARKET,-124.55,Purchase,Whole Foods Market,Food and Restaurants,2026-06,Saturday,True,False
+TXN1331,2026-06-27,Credit Card ...9033,DOORDASH*433,-34.83,Purchase,DoorDash,Food and Restaurants,2026-06,Saturday,True,False
+TXN1307,2026-06-28,Checking ...4821,CHIPOTLE ONLINE 146,-10.13,Purchase,Chipotle,Food and Restaurants,2026-06,Sunday,True,False
+TXN1364,2026-07-01,Credit Card ...9033,PARKWHIZ *PARKING,-15.69,Purchase,ParkWhiz,Transportation,2026-07,Wednesday,True,False
+TXN1394,2026-07-01,Checking ...4821,AUTOZONE INC,-17.47,Purchase,AutoZone,Transportation,2026-07,Wednesday,True,False
+TXN1356,2026-07-02,Checking ...4821,VZWRLSS*443,-85.0,Payment,Verizon Wireless,Bills,2026-07,Thursday,True,False
+TXN1353,2026-07-02,Checking ...4821,PACIFIC POWER 996,-98.73,Payment,Unknown Merchant,Uncategorized,2026-07,Thursday,True,False
+TXN1455,2026-07-02,Checking ...4821,AMZN MKTP US*166,-340.0,Purchase,Amazon,Shopping,2026-07,Thursday,True,False
+TXN1346,2026-07-02,Checking ...4821,SPOTIFY USA,-11.99,Payment,Spotify,Subscriptions,2026-07,Thursday,True,False
+TXN1357,2026-07-03,Checking ...4821,STATEFARM 945,-120.0,Payment,State Farm Insurance,Bills,2026-07,Friday,True,False
+TXN1347,2026-07-03,Credit Card ...9033,PRIME VIDEO CHANNELS,-14.99,Payment,Amazon Prime,Subscriptions,2026-07,Friday,True,False
+TXN1402,2026-07-04,Checking ...4821,WHOLE FOODS MARKET,-56.75,Purchase,Whole Foods Market,Food and Restaurants,2026-07,Saturday,True,False
+TXN1350,2026-07-04,Credit Card ...9033,APPLE.COM/BILL,-2.99,Payment,iCloud Storage,Subscriptions,2026-07,Saturday,True,False
+TXN1343,2026-07-05,Checking ...4821,RENTERS INS PREMIUM,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-07,Sunday,True,False
+TXN1371,2026-07-05,Checking ...4821,PARKWHIZ *PARKING,-11.4,Purchase,ParkWhiz,Transportation,2026-07,Sunday,True,False
+TXN1362,2026-07-05,Credit Card ...9033,LOCAL DINER #710,-27.99,Purchase,Local Diner,Food and Restaurants,2026-07,Sunday,True,False
+TXN1392,2026-07-06,Checking ...4821,CHICK-FIL-A #245,-15.46,Purchase,Chick-fil-A,Food and Restaurants,2026-07,Monday,True,False
+TXN1401,2026-07-06,Checking ...4821,CHIPOTLE ONLINE 661,-16.04,Purchase,Chipotle,Food and Restaurants,2026-07,Monday,True,False
+TXN1379,2026-07-07,Credit Card ...9033,UBER *EATS,-31.19,Purchase,Uber Eats,Food and Restaurants,2026-07,Tuesday,True,False
+TXN1405,2026-07-07,Checking ...4821,ACME CORP PAYROLL DEP,2058.82,Deposit,Acme Corp Payroll,Income,2026-07,Tuesday,False,True
+TXN1355,2026-07-07,Checking ...4821,XFINITY 505,-79.99,Payment,Comcast Xfinity,Bills,2026-07,Tuesday,True,False
+TXN1370,2026-07-08,Checking ...4821,LYFT *RIDE 514,-22.92,Purchase,Lyft,Transportation,2026-07,Wednesday,True,False
+TXN1396,2026-07-10,Credit Card ...9033,MCDONALDS #681,-6.13,Purchase,McDonald's,Food and Restaurants,2026-07,Friday,True,False
+TXN1408,2026-07-10,Checking ...4821,AMAZON.COM REFUND,31.3,Refund,Amazon,Shopping,2026-07,Friday,False,False
+TXN1387,2026-07-11,Credit Card ...9033,PARKWHIZ *PARKING,-5.63,Purchase,ParkWhiz,Transportation,2026-07,Saturday,True,False
+TXN1374,2026-07-11,Credit Card ...9033,STARBUCKS #867,-5.2,Purchase,Starbucks,Food and Restaurants,2026-07,Saturday,True,False
+TXN1342,2026-07-11,Checking ...4821,SKYLINE APARTMENTS RENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-07,Saturday,True,False
+TXN1376,2026-07-11,Checking ...4821,LOCAL DINER #620,-23.6,Purchase,Local Diner,Food and Restaurants,2026-07,Saturday,True,False
+TXN1359,2026-07-11,Checking ...4821,CHEVRON 822,-53.76,Purchase,Chevron,Transportation,2026-07,Saturday,True,False
+TXN1390,2026-07-12,Credit Card ...9033,SHELL SERVICE STATION,-41.21,Purchase,Shell Gas Station,Transportation,2026-07,Sunday,True,False
+TXN1383,2026-07-12,Credit Card ...9033,WHOLEFDS MKT #161,-86.66,Purchase,Whole Foods Market,Food and Restaurants,2026-07,Sunday,True,False
+TXN1351,2026-07-12,Credit Card ...9033,DISNEYPLUS.COM,-13.99,Payment,Disney Plus,Subscriptions,2026-07,Sunday,True,False
+TXN1407,2026-07-12,Checking ...4821,VENMO   TRANSFER IN,21.82,Transfer,Venmo Transfer,Transfer,2026-07,Sunday,False,False
+TXN1368,2026-07-12,Credit Card ...9033,MCDONALDS #522,-11.4,Purchase,McDonald's,Food and Restaurants,2026-07,Sunday,True,False
+TXN1369,2026-07-12,Checking ...4821,TARGET      #286,-133.26,Purchase,Target,Shopping,2026-07,Sunday,True,False
+TXN1344,2026-07-13,Credit Card ...9033,CITY TRANSIT AUTHORITY,-60.0,Payment,City Transit Authority,Transportation,2026-07,Monday,True,False
+TXN1361,2026-07-13,Checking ...4821,TRADER JOE S #404,-62.15,Purchase,Trader Joe's,Food and Restaurants,2026-07,Monday,True,False
+TXN1393,2026-07-13,Credit Card ...9033,SHELL OIL 971,-33.14,Purchase,Shell Gas Station,Transportation,2026-07,Monday,True,False
+TXN1358,2026-07-14,Checking ...4821,FEDLOAN SERVICING,-210.0,Payment,Federal Student Loan Servicer,Education,2026-07,Tuesday,True,False
+TXN1395,2026-07-14,Checking ...4821,CHICK-FIL-A #549,-14.6,Purchase,Chick-fil-A,Food and Restaurants,2026-07,Tuesday,True,False
+TXN1384,2026-07-15,Credit Card ...9033,CHEVRON 432,-58.81,Purchase,Chevron,Transportation,2026-07,Wednesday,True,False
+TXN1397,2026-07-15,Checking ...4821,DOORDASH*510,-29.71,Purchase,DoorDash,Food and Restaurants,2026-07,Wednesday,True,False
+TXN1372,2026-07-16,Checking ...4821,TRADER JOES 545,-89.33,Purchase,Trader Joe's,Food and Restaurants,2026-07,Thursday,True,False
+TXN1366,2026-07-17,Checking ...4821,UBER *EATS,-34.48,Purchase,Uber Eats,Food and Restaurants,2026-07,Friday,True,False
+TXN1389,2026-07-17,Credit Card ...9033,OLD NAVY #204,-80.89,Purchase,Old Navy,Shopping,2026-07,Friday,True,False
+TXN1363,2026-07-17,Credit Card ...9033,UBER *EATS,-19.74,Purchase,Uber Eats,Food and Restaurants,2026-07,Friday,True,False
+TXN1380,2026-07-17,Credit Card ...9033,WHOLEFDS MKT #756,-107.15,Purchase,Whole Foods Market,Food and Restaurants,2026-07,Friday,True,False
+TXN1404,2026-07-17,Credit Card ...9033,MCDONALD'S F741,-10.39,Purchase,McDonald's,Food and Restaurants,2026-07,Friday,True,False
+TXN1354,2026-07-17,Checking ...4821,METRO WATER 488,-34.03,Payment,Metro Water Utility,Bills,2026-07,Friday,True,False
+TXN1349,2026-07-18,Checking ...4821,ANYTIME FITNESS #550,-39.99,Payment,Anytime Fitness,Subscriptions,2026-07,Saturday,True,False
+TXN1400,2026-07-18,Credit Card ...9033,LYFT   RIDE TUE,-20.37,Purchase,Lyft,Transportation,2026-07,Saturday,True,False
+TXN1385,2026-07-18,Checking ...4821,WHOLEFDS MKT #579,-45.18,Purchase,Whole Foods Market,Food and Restaurants,2026-07,Saturday,True,False
+TXN1352,2026-07-19,Credit Card ...9033,GOOGLE *YOUTUBE PREM,-13.99,Payment,YouTube Premium,Subscriptions,2026-07,Sunday,True,False
+TXN1403,2026-07-19,Checking ...4821,TRADER JOE S #971,-87.74,Purchase,Trader Joe's,Food and Restaurants,2026-07,Sunday,True,False
+TXN1381,2026-07-19,Credit Card ...9033,AUTOZONE INC,-58.37,Purchase,AutoZone,Transportation,2026-07,Sunday,True,False
+TXN1391,2026-07-19,Checking ...4821,SQ*STARBUCKS COFFEE,-7.86,Purchase,Starbucks,Food and Restaurants,2026-07,Sunday,True,False
+TXN1378,2026-07-21,Checking ...4821,OLDNAVY.COM,-36.99,Purchase,Old Navy,Shopping,2026-07,Tuesday,True,False
+TXN1345,2026-07-21,Credit Card ...9033,NETFLIX.COM,-15.49,Payment,Netflix,Subscriptions,2026-07,Tuesday,True,False
+TXN1399,2026-07-21,Checking ...4821,DOORDASH*327,-18.29,Purchase,DoorDash,Food and Restaurants,2026-07,Tuesday,True,False
+TXN1373,2026-07-21,Checking ...4821,PARKWHIZ *PARKING,-9.94,Purchase,ParkWhiz,Transportation,2026-07,Tuesday,True,False
+TXN1382,2026-07-22,Checking ...4821,MCDONALDS #959,-7.31,Purchase,McDonald's,Food and Restaurants,2026-07,Wednesday,True,False
+TXN1398,2026-07-22,Checking ...4821,DD *DOORDASH,-25.97,Purchase,DoorDash,Food and Restaurants,2026-07,Wednesday,True,False
+TXN1367,2026-07-23,Checking ...4821,MCDONALDS #513,-9.21,Purchase,McDonald's,Food and Restaurants,2026-07,Thursday,True,False
+TXN1406,2026-07-23,Checking ...4821,ACME CORP DIRECT DEP,2088.66,Deposit,Acme Corp Payroll,Income,2026-07,Thursday,False,True
+TXN1375,2026-07-24,Credit Card ...9033,UBER *EATS,-30.61,Purchase,Uber Eats,Food and Restaurants,2026-07,Friday,True,False
+TXN1388,2026-07-24,Credit Card ...9033,CHIPOTLE MEXICAN GRILL,-9.69,Purchase,Chipotle,Food and Restaurants,2026-07,Friday,True,False
+TXN1386,2026-07-24,Credit Card ...9033,DOORDASH*760,-33.56,Purchase,DoorDash,Food and Restaurants,2026-07,Friday,True,False
+TXN1365,2026-07-25,Checking ...4821,CHEVRON/TEXACO 292,-55.23,Purchase,Chevron,Transportation,2026-07,Saturday,True,False
+TXN1377,2026-07-25,Checking ...4821,CHICK-FIL-A #144,-8.3,Purchase,Chick-fil-A,Food and Restaurants,2026-07,Saturday,True,False
+TXN1360,2026-07-26,Checking ...4821,UBER *TRIP HELP.UBER.COM,-11.24,Purchase,Uber,Transportation,2026-07,Sunday,True,False
+TXN1410,2026-07-26,Credit Card ...9033,POS PURCHASE,-27.4,Purchase,Unknown Merchant,Uncategorized,2026-07,Sunday,True,False
+TXN1348,2026-07-27,Checking ...4821,ADOBE CREATIVE CL,-54.99,Payment,Adobe Creative Cloud,Subscriptions,2026-07,Monday,True,False
+TXN1409,2026-07-28,Checking ...4821,POS PURCHASE,-27.08,Purchase,Unknown Merchant,Uncategorized,2026-07,Tuesday,True,False
+TXN1436,2026-08-01,Credit Card ...9033,DD *DOORDASH,-23.55,Purchase,DoorDash,Food and Restaurants,2026-08,Saturday,True,False
+TXN1444,2026-08-01,Checking ...4821,MCDONALD'S F552,-8.84,Purchase,McDonald's,Food and Restaurants,2026-08,Saturday,True,False
+TXN1414,2026-08-02,Checking ...4821,SPOTIFY   P121,-11.99,Payment,Spotify,Subscriptions,2026-08,Sunday,True,False
+TXN1446,2026-08-02,Checking ...4821,WALMART.COM 519,-38.95,Purchase,Walmart,Shopping,2026-08,Sunday,True,False
+TXN1418,2026-08-02,Checking ...4821,PACIFIC POWER 994,-76.68,Payment,Unknown Merchant,Uncategorized,2026-08,Sunday,True,False
+TXN1453,2026-08-02,Checking ...4821,AUTOZONE #306,-480.0,Purchase,AutoZone,Transportation,2026-08,Sunday,True,False
+TXN1420,2026-08-02,Checking ...4821,VZWRLSS*502,-85.0,Payment,Verizon Wireless,Bills,2026-08,Sunday,True,False
+TXN1421,2026-08-03,Checking ...4821,STATE FARM INS,-120.0,Payment,State Farm Insurance,Bills,2026-08,Monday,True,False
+TXN1415,2026-08-03,Credit Card ...9033,AMAZON PRIME*213,-14.99,Payment,Amazon Prime,Subscriptions,2026-08,Monday,True,False
+TXN1426,2026-08-04,Checking ...4821,UBER *TRIP HELP.UBER.COM,-16.84,Purchase,Uber,Transportation,2026-08,Tuesday,True,False
+TXN1416,2026-08-04,Checking ...4821,ICLOUD STORAGE,-2.99,Payment,iCloud Storage,Subscriptions,2026-08,Tuesday,True,False
+TXN1412,2026-08-05,Credit Card ...9033,RENTERSINS CO 202,-18.4,Payment,Renters Insurance Co,Rent and Housing,2026-08,Wednesday,True,False
+TXN1429,2026-08-05,Credit Card ...9033,COURSERA 991,-49.0,Purchase,Coursera,Education,2026-08,Wednesday,True,False
+TXN1424,2026-08-05,Credit Card ...9033,SQ *STARBUCKS #379 SEATTLE WA,-7.52,Purchase,Starbucks,Food and Restaurants,2026-08,Wednesday,True,False
+TXN1435,2026-08-05,Checking ...4821,SQ *STARBUCKS #175 SEATTLE WA,-6.95,Purchase,Starbucks,Food and Restaurants,2026-08,Wednesday,True,False
+TXN1448,2026-08-07,Checking ...4821,COURSERA 588,-49.0,Purchase,Coursera,Education,2026-08,Friday,True,False
+TXN1419,2026-08-07,Checking ...4821,XFINITY 963,-79.99,Payment,Comcast Xfinity,Bills,2026-08,Friday,True,False
+TXN1445,2026-08-07,Checking ...4821,UBER *EATS,-22.74,Purchase,Uber Eats,Food and Restaurants,2026-08,Friday,True,False
+TXN1447,2026-08-08,Credit Card ...9033,LOCAL DINER #877,-17.7,Purchase,Local Diner,Food and Restaurants,2026-08,Saturday,True,False
+TXN1433,2026-08-09,Checking ...4821,MCDONALD'S F741,-10.36,Purchase,McDonald's,Food and Restaurants,2026-08,Sunday,True,False
+TXN1441,2026-08-09,Checking ...4821,LOCAL DINER #235,-17.82,Purchase,Local Diner,Food and Restaurants,2026-08,Sunday,True,False
+TXN1443,2026-08-09,Checking ...4821,PARKWHIZ 855,-20.07,Purchase,ParkWhiz,Transportation,2026-08,Sunday,True,False
+TXN1430,2026-08-10,Credit Card ...9033,UBER   TRIP 247,-30.32,Purchase,Uber,Transportation,2026-08,Monday,True,False
+TXN1431,2026-08-11,Checking ...4821,NIKE.COM 697,-48.45,Purchase,Nike,Shopping,2026-08,Tuesday,True,False
+TXN1428,2026-08-11,Checking ...4821,DD *DOORDASH,-42.68,Purchase,DoorDash,Food and Restaurants,2026-08,Tuesday,True,False
+TXN1449,2026-08-11,Credit Card ...9033,WHOLEFDS MKT #265,-38.39,Purchase,Whole Foods Market,Food and Restaurants,2026-08,Tuesday,True,False
+TXN1439,2026-08-11,Checking ...4821,UBER *TRIP HELP.UBER.COM,-9.53,Purchase,Uber,Transportation,2026-08,Tuesday,True,False
+TXN1437,2026-08-11,Checking ...4821,CHEVRON/TEXACO 915,-33.58,Purchase,Chevron,Transportation,2026-08,Tuesday,True,False
+TXN1411,2026-08-11,Checking ...4821,SKYLINE APARTMENTS RENT,-1450.0,Payment,Skyline Apartments,Rent and Housing,2026-08,Tuesday,True,False
+TXN1423,2026-08-11,Checking ...4821,NIKE STORE #441,-40.69,Purchase,Nike,Shopping,2026-08,Tuesday,True,False
+TXN1440,2026-08-12,Credit Card ...9033,TARGET.COM *452,-121.75,Purchase,Target,Shopping,2026-08,Wednesday,True,False
+TXN1427,2026-08-12,Credit Card ...9033,DOORDASH*458,-32.0,Purchase,DoorDash,Food and Restaurants,2026-08,Wednesday,True,False
+TXN1442,2026-08-12,Checking ...4821,PARKWHIZ *PARKING,-7.83,Purchase,ParkWhiz,Transportation,2026-08,Wednesday,True,False
+TXN1417,2026-08-12,Credit Card ...9033,DISNEYPLUS.COM,-13.99,Payment,Disney Plus,Subscriptions,2026-08,Wednesday,True,False
+TXN1425,2026-08-12,Checking ...4821,UDEMY *ONLINE COURSE,-54.39,Purchase,Udemy,Education,2026-08,Wednesday,True,False
+TXN1434,2026-08-13,Checking ...4821,TRADER JOES 984,-67.83,Purchase,Trader Joe's,Food and Restaurants,2026-08,Thursday,True,False
+TXN1450,2026-08-13,Checking ...4821,ACME CORP PAYROLL DEP,2040.87,Deposit,Acme Corp Payroll,Income,2026-08,Thursday,False,True
+TXN1413,2026-08-13,Credit Card ...9033,CITY TRANSIT AUTHORITY,-60.0,Payment,City Transit Authority,Transportation,2026-08,Thursday,True,False
+TXN1438,2026-08-13,Checking ...4821,UDEMY.COM 994,-32.24,Purchase,Udemy,Education,2026-08,Thursday,True,False
+TXN1422,2026-08-14,Credit Card ...9033,FEDLOAN SERVICING,-210.0,Payment,Federal Student Loan Servicer,Education,2026-08,Friday,True,False
+TXN1432,2026-08-15,Credit Card ...9033,UBER EATS 838,-23.64,Purchase,Uber Eats,Food and Restaurants,2026-08,Saturday,True,False

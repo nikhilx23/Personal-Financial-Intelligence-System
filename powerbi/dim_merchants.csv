@@ -1,0 +1,47 @@
+merchant_id,merchant_name,category_id
+1,Starbucks,3
+2,Shell Gas Station,9
+3,Verizon Wireless,1
+4,Spotify,7
+5,Pacific Power Electric,1
+6,Trader Joe's,3
+7,DoorDash,3
+8,State Farm Insurance,1
+9,Delta Airlines,10
+10,Amazon Prime,7
+11,Walmart,6
+12,iCloud Storage,7
+13,Renters Insurance Co,5
+14,McDonald's,3
+15,Chick-fil-A,3
+16,Whole Foods Market,3
+17,Acme Corp Payroll,4
+18,Comcast Xfinity,1
+19,Local Diner,3
+20,Old Navy,6
+21,Skyline Apartments,5
+22,ParkWhiz,9
+23,Chevron,9
+24,Disney Plus,7
+25,City Transit Authority,9
+26,Uber,9
+27,Coursera,2
+28,Lyft,9
+29,Federal Student Loan Servicer,2
+30,Uber Eats,3
+31,Nike,6
+32,Target,6
+33,Chipotle,3
+34,AutoZone,9
+35,Venmo Transfer,8
+36,Metro Water Utility,1
+37,Amazon,6
+38,Anytime Fitness,7
+39,YouTube Premium,7
+40,Netflix,7
+41,Enterprise Rent-A-Car,10
+42,Unknown Merchant,11
+43,Adobe Creative Cloud,7
+44,Best Buy,6
+45,Marriott Hotels,10
+46,Udemy,2
